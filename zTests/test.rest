@@ -1,0 +1,22 @@
+###
+
+Get http://localhost:8052/api/v1/test/get-product-data
+
+###
+
+Get http://localhost:8052/api/v1/test/get-set-variants-data
+
+###
+
+Get http://localhost:8052/api/v1/test/get-products
+
+
+
+###
+
+Get http://localhost:8052/api/v1/test/parent-images
+
+
+###
+
+Get http://localhost:8052/api/v1/test/inventory

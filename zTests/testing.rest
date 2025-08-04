@@ -1,0 +1,41 @@
+###
+Get http://localhost:8085/
+
+
+
+###
+Get http://localhost:8085/publications
+
+
+
+###
+Get http://localhost:8085/set-publications
+
+
+###
+Get http://localhost:8085/set-options-order
+
+
+
+###
+Get http://localhost:8085/update-variant-cost
+
+
+
+###
+Get http://localhost:8085/get-orders
+
+
+
+###
+Get http://localhost:8085/create-order
+
+
+
+###
+GET  http://localhost:8025/product-set
+
+
+
+###
+Get http://localhost:8085/cancel-order?reason=inventory_out_no_alternates

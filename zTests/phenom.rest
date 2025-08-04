@@ -1,0 +1,13 @@
+###
+
+Get http://localhost:8052/api/v1/phenom/get-product-data
+
+
+###
+
+Get http://localhost:8052/api/v1/phenom/parent-images
+
+
+###
+
+Get http://localhost:8052/api/v1/phenom/inventory
