@@ -1,4 +1,4 @@
-# Shopify-Phenom
+# Shopify-Flxpoint-Vendor-Integration
 
 A TypeScript project focused on extending or integrating with Shopify workflows.
 
